@@ -31,7 +31,7 @@ If you want to reach out, feel free to connect me on any of these platforms:
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0B65C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hamza-laghari-7324581b4/)
 -->
 
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/hamza-laghari-7324581b4/)
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/hamza-laghari/)
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/hamza-ml)
 
   
